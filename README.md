@@ -1,4 +1,4 @@
-Epicodus exercise using Rails
+#Epicodus exercise using Rails
 
 ##Wildlife tracker
 
